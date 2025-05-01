@@ -14,7 +14,7 @@
 
 * to acquire knowledge about database design for Object-Relational DBMS (ORDBMS) model,
 * to implement a database in an ORDBMS like Oracle,
-* *o insert sample data and run different queries on the database.
+* to insert sample data and run different queries on the database.
 
 
 ### Problem definition
@@ -66,6 +66,6 @@ Using oracle OORDBMS features and documentations, perform the following: </br>
 
 ## Marks: 10
 
-* Task 1: Using MongoDB NoSQL DBMS, define collection for students and create 5 documents to store the data of 5 students and show some queries on the documents.
+Task 1: Using MongoDB NoSQL DBMS, define collection for students and create 5 documents to store the data of 5 students and show some queries on the documents. </br>
 
-* Task 2: For optional fields, data become sparse because of many null values in Relational or Object-Relational model. But in NoSQL model, it does not happen. Describe this from your implementation. 
+Task 2: For optional fields, data become sparse because of many null values in Relational or Object-Relational model. But in NoSQL model, it does not happen. Describe this from your implementation. 
